@@ -23,7 +23,10 @@
 
 ###
 
-<p align="left">I'm a Computer Science student at NAU <br><br>- 📚 I'm currently learning C as my foundation<br>- In my free time I read and play guitar</p>
+<p align="left">I'm a Computer Science student at NAU <br>
+<br>- I'm currently learning C language as my DSA / logical foundation
+<br>- In my free time I read and play guitar
+</p>
 
 ###
 
