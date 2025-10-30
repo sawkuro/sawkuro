@@ -3,11 +3,11 @@
 ###
 
 <div align="center">
-  <a href="https://www.instagram.com/kacysouvanna" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://www.youtube.com/@ariya_kc" target="_blank">
+  <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/@ariya_kc" >
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  </a>
+  <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/kacysouvanna" >
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
 </div>
 
@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm a Computer Science student at NAU <br><br>- 📚 I'm currently learning C as my foundation<br>- In my free time I read and play guitar</p>
 
 ###
 
