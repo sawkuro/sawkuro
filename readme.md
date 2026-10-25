@@ -25,17 +25,4 @@
 <p align="left">
   I'm a Computer Science student at NAU set to graduate Spring 2028.<br><br>
   • Currently learning C as my foundation for data structures and algorithms.<br>
-  • In my free time, I enjoy reading, playing guitar, and lifting.
-</p>
-
-<h3 align="left">🛠 Languages & Tools</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" height="40" alt="Neovim logo" />
-</div>
+  • In my free time, I enjoy reading and playing guitar
