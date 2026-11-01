@@ -23,15 +23,15 @@
 
 ### About Me
 
-I'm a **Computer Science** student at **Northern Arizona University (NAU)** graduating in **Spring 2028**. 
+I'm a **Computer Science** student at **Northern Arizona University (NAU)** graduating in **Spring 2028**.
 
-* **Focus:** Low-Level Systems Programming, C/C++, Data Structures, and Full Stack React.
-* **Environment:** Arch Linux + Hyprland (managed via GNU Stow).
-* **Interests:** Technical metal guitar, music production, and competitive gaming (R6 / Apex / SF6 ).
+- **Focus:** C/C++, Full Stack React, postgreSQL.
+- **Interests:** Technical metal guitar, music production, and competitive gaming (R6 / Apex / SF6).
 
 ---
 
 ### Tech Stack & Tools
+
 Languages and Tools I am working with/on
 
 <p align="left">
