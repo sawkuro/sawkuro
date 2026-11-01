@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋</h1>
+<h1 align="center">Hi!</h1>
 <br>
 
 <div align="center">
@@ -8,7 +8,7 @@
   <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/kacysouvanna">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="instagram logo" style="margin-right:8px;" />
   </a>
-  <a target="_blank" rel="noopener noreferrer" href="https://sawkuro.github.io/My-Website/">
+  <a target="_blank" rel="noopener noreferrer" href="[https://sawkuro.github.io/My-Website/](https://kacysouvanna.vercel.app/)">
     <img src="https://img.shields.io/static/v1?message=Website&logo=googlesites&label=&color=4CAF50&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="website logo" />
   </a>
 </div>
@@ -20,9 +20,9 @@
 
 <hr style="margin: 1px 0;" />
 
-<h3 align="left">👩‍💻 About Me</h3>
+<h3 align="left">About Me</h3>
 
 <p align="left">
   I'm a Computer Science student at NAU set to graduate Spring 2028.<br><br>
-  • Currently learning C as my foundation for data structures and algorithms.<br>
-  • In my free time, I enjoy reading and playing guitar
+  • I work on Full Stack react projects along with a background in C/C++.<br>
+  • I enjoy playing technical metal guitar and competitive gaming
