@@ -8,7 +8,7 @@
   <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/kacysouvanna">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="instagram logo" style="margin-right:8px;" />
   </a>
-  <a target="_blank" rel="noopener noreferrer" href="[https://sawkuro.github.io/My-Website/](https://kacysouvanna.vercel.app/)">
+  <a target="_blank" rel="noopener noreferrer" href="https://kacysouvanna.vercel.app/">
     <img src="https://img.shields.io/static/v1?message=Website&logo=googlesites&label=&color=4CAF50&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="website logo" />
   </a>
 </div>
@@ -25,4 +25,4 @@
 <p align="left">
   I'm a Computer Science student at NAU set to graduate Spring 2028.<br><br>
   • I work on Full Stack react projects along with a background in C/C++.<br>
-  • I enjoy playing technical metal guitar and competitive gaming
+  • I enjoy playing technical metal guitar and competitive gaming (r6/apex/SF6/tekken)
